@@ -10,16 +10,14 @@ An AI-powered system for enhancing chest X-ray images and detecting multiple tho
 - Detects multiple lung conditions (e.g., pneumonia, tuberculosis, lung opacity) using **YOLO**  
 - Generates patient-friendly diagnostic explanations using **NLP (GPT-2)**  
 - Converts medical summaries to natural speech using **Google Text-to-Speech (gTTS)**  
-- Provides interactive Q&A on diagnosis using NLP  
+  
 
 ---
 
 ## Components  
 
-- `gan_enhancement.ipynb`: GAN model for X-ray image enhancement  
-- `yolo_detection.ipynb`: YOLO-based multiclass detection of chest X-ray abnormalities  
-- `nlp_tts.ipynb`: NLP-based explanation generation and speech synthesis  
-- `requirements.txt`: List of required Python libraries  
+- `applied_ai.ipynb`: GAN model for X-ray image enhancement  
+- `obj_detection_nlp.ipynb`: YOLO-based multiclass detection of chest X-ray abnormalities  NLP-based explanation generation and speech synthesis    
 
 ---
 
